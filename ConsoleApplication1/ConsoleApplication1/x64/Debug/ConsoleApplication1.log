@@ -1,0 +1,130 @@
+﻿  ConsoleApplication1.cpp
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,7): error C3646: 'b': unknown override specifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,10): error C3646: 'ds': unknown override specifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,18): error C2061: syntax error: identifier 'douList'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(34,15): error C2061: syntax error: identifier 'douList'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,3): error C2065: 'Node': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,9): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,17): error C2061: syntax error: identifier 'Node'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,8): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,12): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,21): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,32): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,36): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(22,25): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,28): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,31): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,28): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,8): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,3): error C2065: 'Node': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,9): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,17): error C2061: syntax error: identifier 'Node'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(41,8): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(41,12): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(41,21): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(41,32): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(41,36): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(43,27): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(46,26): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,32): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(48,29): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(49,29): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(51,9): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(65,6): error C2143: syntax error: missing ';' before '*'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(65,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(66,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(75,16): error C2061: syntax error: identifier 'douList'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(86,12): error C2061: syntax error: identifier 'douList'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(105,14): error C2061: syntax error: identifier 'douList'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(117,15): error C2061: syntax error: identifier 'douList'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(128,17): error C2061: syntax error: identifier 'douList'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(77,7): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,4): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,14): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,24): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(81,4): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(81,20): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(82,4): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(82,13): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(83,4): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(83,14): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(89,3): error C2065: 'Book': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(89,8): error C2146: syntax error: missing ';' before identifier 'b'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(89,8): error C2065: 'b': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91,10): error C2065: 'b': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(94,16): error C2065: 'b': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(94,3): error C2672: 'getline': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(83,32): message : could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(94,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(76,32): message : or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(94,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(69,32): message : or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(94,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(26,32): message : or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(94,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,16): error C2065: 'b': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,3): error C2672: 'getline': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(83,32): message : could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(76,32): message : or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(69,32): message : or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(26,32): message : or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(98,16): error C2065: 'b': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(98,3): error C2672: 'getline': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(83,32): message : could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(98,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(76,32): message : or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(98,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(69,32): message : or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(98,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(26,32): message : or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(98,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(100,3): error C2065: 'Node': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(100,9): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(100,17): error C2061: syntax error: identifier 'Node'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(101,3): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(101,15): error C2065: 'b': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(101,7): error C3861: 'taoNode': identifier not found
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(103,12): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(103,16): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(108,7): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(109,4): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(110,3): error C2065: 'Node': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(110,9): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(110,13): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(111,3): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(111,13): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(112,3): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(113,3): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(114,10): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(114,1): error C2541: 'delete': cannot delete objects that are not pointers
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(119,7): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(120,4): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(121,3): error C2065: 'Node': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(121,9): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(121,13): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(122,3): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(122,13): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(123,3): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(124,3): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(125,10): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(125,1): error C2541: 'delete': cannot delete objects that are not pointers
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(138,4): error C2065: 'Node': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(138,10): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(138,18): error C2061: syntax error: identifier 'Node'
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(140,9): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(140,13): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(140,22): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(140,33): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(140,37): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(142,9): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(145,10): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(147,14): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(150,10): error C2065: 'p': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(152,15): error C2065: 'ds': undeclared identifier
+D:\source_code\ThuVienUIT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(152,1): fatal  error C1003: error count exceeds 100; stopping compilation
